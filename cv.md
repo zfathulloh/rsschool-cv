@@ -6,13 +6,13 @@ Student of Computer Science and Software Engineering
 - **Email:** faathulloh@gmail.com
 - **Telegram:** @zfathulloh
 
-- ## Languages:
+## Languages:
 - **Uzbek** - Native
 - **English** - Proficient
 - **Russian** - Intermediate
 - **Arabic** - Basic
 
-- ## Skills:
+## Skills:
 - UI/UX Design
 - Leadership
 - Critical Thinking
